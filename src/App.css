@@ -10,28 +10,38 @@
 .passwordBox {
 
 border-radius: 25px;
-min-width: 50vh ;
+
 width: 70vh;
+min-width: 10vh;
 min-height: 7vh;
 padding-left: 2vh;
 font-size: calc(5px + 2vmin);
 
 }
 
-.App-header {
-  
-  min-height: 100vh;
+.Header {
   max-width: 50vh;
+  font-size: calc(55px + 2vmin);
+  font-weight: bolder;
+  
+}
 
+.strength {
+
+  font-size: calc(7px + 2vmin);
+  margin-top: 5vh;
+  
+}
+
+.App-container {
+  
+  min-height: 100vh; 
   display: flex;
   flex-direction: column;
- 
   align-items: center;
-
   text-align: center;
-  font-size: calc(55px + 2vmin);
+  
   color: #D1D1D1;
-  font-weight: bolder;
 }
 
 @keyframes App-logo-spin {
