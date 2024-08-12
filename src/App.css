@@ -1,0 +1,44 @@
+.App {
+
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.passwordBox {
+
+border-radius: 25px;
+min-width: 50vh ;
+width: 70vh;
+min-height: 7vh;
+padding-left: 2vh;
+font-size: calc(5px + 2vmin);
+
+}
+
+.App-header {
+  
+  min-height: 100vh;
+  max-width: 50vh;
+
+  display: flex;
+  flex-direction: column;
+ 
+  align-items: center;
+
+  text-align: center;
+  font-size: calc(55px + 2vmin);
+  color: #D1D1D1;
+  font-weight: bolder;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
