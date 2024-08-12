@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.85e5c8f1.css",
-    "main.js": "/react-gh-pages/static/js/main.06be2379.js",
-    "static/js/453.1f2d1ede.chunk.js": "/react-gh-pages/static/js/453.1f2d1ede.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.85e5c8f1.css.map": "/react-gh-pages/static/css/main.85e5c8f1.css.map",
-    "main.06be2379.js.map": "/react-gh-pages/static/js/main.06be2379.js.map",
-    "453.1f2d1ede.chunk.js.map": "/react-gh-pages/static/js/453.1f2d1ede.chunk.js.map"
+    "main.css": "/password_security/static/css/main.85e5c8f1.css",
+    "main.js": "/password_security/static/js/main.d62e2770.js",
+    "static/js/453.1f2d1ede.chunk.js": "/password_security/static/js/453.1f2d1ede.chunk.js",
+    "index.html": "/password_security/index.html",
+    "main.85e5c8f1.css.map": "/password_security/static/css/main.85e5c8f1.css.map",
+    "main.d62e2770.js.map": "/password_security/static/js/main.d62e2770.js.map",
+    "453.1f2d1ede.chunk.js.map": "/password_security/static/js/453.1f2d1ede.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85e5c8f1.css",
-    "static/js/main.06be2379.js"
+    "static/js/main.d62e2770.js"
   ]
 }
